@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
           ),
           body: Column(
             children: [
-              Text("text 1 testing"),
+              Text("text 1 testing a new commit!!!"),
               TextButton(
                   onPressed: () {
                     setState(() {
